@@ -30,3 +30,6 @@ int main()
 
     return (0);
 }
+
+/* Enjoy the game wange hhhhhhhhhhhh!
+    but in kase u like it you can press *182*1*1 for me*/
